@@ -1,0 +1,18 @@
+html {
+  display: flex;
+}
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imgContainer {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  grid-gap: 2rem;
+}
+
+img {
+  width: 14rem;
+}

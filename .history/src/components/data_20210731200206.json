@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+  },
+  {
+    "id": 2,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+  },
+  {
+    "id": 3,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+  },
+  {
+    "id": 4,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+  },
+  {
+    "id": 5,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+  },
+  {
+    "id": 6,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/6.jpeg"
+  },
+  {
+    "id": 7,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/7.jpeg"
+  },
+  {
+    "id": 8,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/8.jpeg"
+  },
+  {
+    "id": 9,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/9.jpeg"
+  },
+  {
+    "id": 10,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/10.jpeg"
+  },
+  {
+    "id": 11,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/11.jpeg"
+  },
+  {
+    "id": 12,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/12.jpeg"
+  },
+  {
+    "id": 13,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/13.jpeg"
+  },
+  {
+    "id": 14,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/14.jpeg"
+  },
+  {
+    "id": 15,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/15.jpeg"
+  },
+  {
+    "id": 16,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/16.jpeg"
+  },
+  {
+    "id": 17,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/17.jpeg"
+  },
+  {
+    "id": 18,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/18.jpeg"
+  },
+  {
+    "id": 19,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/19.jpeg"
+  },
+  {
+    "id": 20,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/20.jpeg"
+  },
+  {
+    "id": 21,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/21.jpeg"
+  },
+  {
+    "id": 22,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/22.jpeg"
+  },
+  {
+    "id": 23,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/23.jpeg"
+  },
+  {
+    "id": 24,
+    "clicked": false,
+    "image": "https://rickandmortyapi.com/api/character/avatar/24.jpeg"
+  }
+]

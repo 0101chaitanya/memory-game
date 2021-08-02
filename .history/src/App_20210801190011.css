@@ -1,0 +1,13 @@
+html {
+  display: flex;
+}
+
+.imgContainer {
+  display: grid;
+  grid-auto-flow: column;
+  grid-template-columns: repeat (3, 12rem);
+}
+
+img {
+  width: 12rem;
+}

@@ -1,0 +1,12 @@
+html {
+  display: flex;
+}
+
+.imgContainer {
+  display: grid;
+  grid-auto-flow: column;
+}
+
+img {
+  width: 12rem;
+}

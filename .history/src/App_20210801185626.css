@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+.imgContainer {
+  display: flex;
+}
+
+img {
+  width: 10rem;
+}

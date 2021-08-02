@@ -1,0 +1,12 @@
+html {
+  display: flex;
+}
+
+.imgContainer {
+  display: grid;
+  flex-direction: row;
+}
+
+img {
+  width: 12rem;
+}

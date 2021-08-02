@@ -1,0 +1,23 @@
+html,
+.App,
+#root,
+body {
+  border-top: 1px solid;
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+  align-items: center;
+  background: cadetblue;
+}
+
+.imgContainer {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  grid-gap: 2rem;
+  color: cadetblue;
+}
+
+img {
+  width: 12rem;
+}
